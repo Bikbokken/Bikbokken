@@ -1,4 +1,4 @@
-### Hi there 👋
+### Cybersecurity & programming is my main things. Can be contacted on discord Benjamin#4868. Happy hacking! 
 
 <!--
 **Bikbokken/Bikbokken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
