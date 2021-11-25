@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **benjaminburek05@gmail.com**
 
+- 🐱‍💻 Winner of the Cyber Security regionals championship 2021 in Denmark. (Sjaelland)
+
 
 <h3 align="left">Languages and Tools:</h3> 
 
