@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bikbokken" alt="Bikbokken" /></a> </p>
 
-- 🏢 Programmer & Supporter @ **Sv-Hosting**
+- 🏢 Programmer Trainee @ **Danish Broadcasting Cooperation**
 
 - 🌱 I’m currently learning **C#**
 
