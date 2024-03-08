@@ -1,18 +1,16 @@
 <h1 align="center">Hi 👋, I'm Benjamin</h1>
-<h3 align="center">A passionate C# and frontend developer from Denmark</h3>
+<h3 align="center">A passionate developer from Denmark</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bikbokken" alt="Bikbokken" /></a> </p>
 
 - 🏢 Programming Trainee @ **Danish Broadcasting Cooperation**
 
-- 🌱 I’m currently learning **C#**
+- ❤️ I love **React**
 
-- ❤️ I love **Blazor**
+- 💬 Ask me about **C#, Blazor, C# MVC, JS, MySQL, PHP, HTML, CSS, React, Next.JS**
 
-- 💬 Ask me about **C#, Blazor, C# MVC, JS, MySQL, PHP, HTML, CSS**
-
-- 📫 How to reach me **benjaminburek05@gmail.com**
+- 📫 How to reach me **benjamin@miradays.dk**
 
 - 🐱‍💻 Winner of the Cyber Security regionals championship 2021 in Denmark. (Sjaelland)
 
